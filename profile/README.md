@@ -1,6 +1,6 @@
 <div align="center">
 
-# smek
+# SMEK AI
 
 **Calm, focused tools for people who build things.**
 
