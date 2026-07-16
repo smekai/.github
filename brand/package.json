@@ -1,0 +1,12 @@
+{
+  "name": "smekai-brand",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "rasterize": "node rasterize.mjs"
+  },
+  "dependencies": {
+    "png-to-ico": "^3.0.2",
+    "sharp": "^0.35.3"
+  }
+}

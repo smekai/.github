@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SMEK AI comic impact burst">
+  <title>SMEK AI</title>
+  <desc>smek.ai brand mark - blue field, red burst, white AI behind yellow SMEK</desc>
+  <defs>
+    <pattern id="dots-blue" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.35" fill="#0A5FCC"/>
+    </pattern>
+    <pattern id="dots-red" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="1.8" cy="1.8" r="1.2" fill="#9B1515"/>
+    </pattern>
+    <path id="burst"
+      d="M256 4 L298 70 L362 10 L358 88 L440 54 L404 140 L508 156 L428 210 L510 268 L422 298 L478 374 L388 356 L408 458 L326 392 L298 508 L256 418 L214 508 L186 392 L104 458 L124 356 L34 374 L90 298 L2 268 L84 210 L4 156 L108 140 L72 54 L154 88 L150 10 L214 70 Z"/>
+    <clipPath id="clip-burst">
+      <use href="#burst"/>
+    </clipPath>
+    <g id="letter-S"><path d="M0 0 H48 V28 H18 V38 H48 V100 H0 V72 H30 V62 H0 Z"/></g>
+    <g id="letter-M"><path d="M0 0 H18 L29 52 L40 0 H58 V100 H42 V42 L33 78 H25 L16 42 V100 H0 Z"/></g>
+    <g id="letter-E"><path d="M0 0 H48 V28 H18 V38 H42 V62 H18 V72 H48 V100 H0 Z"/></g>
+    <g id="letter-K"><path d="M0 0 H18 V38 L40 0 H58 L30 48 L58 100 H40 L18 62 V100 H0 Z"/></g>
+    <g id="letter-A">
+      <path d="M0 100 L22 0 H38 L60 100 H42 L36 56 H24 L18 100 Z"/>
+      <path d="M20 42 H40 V56 H20 Z"/>
+    </g>
+    <g id="letter-I"><path d="M0 0 H28 V100 H0 Z"/></g>
+    <g id="word-SMEK">
+      <use href="#letter-S" x="0"/>
+      <use href="#letter-M" x="54"/>
+      <use href="#letter-E" x="118"/>
+      <use href="#letter-K" x="172"/>
+    </g>
+    <g id="word-AI">
+      <use href="#letter-A" x="0"/>
+      <use href="#letter-I" x="66"/>
+    </g>
+  </defs>
+
+  <rect width="512" height="512" fill="#1E90FF"/>
+  <rect width="512" height="512" fill="url(#dots-blue)" opacity="0.55"/>
+
+  <g stroke="#0A0A0A" stroke-width="3" stroke-linecap="round" opacity="0.85">
+    <line x1="256" y1="256" x2="28" y2="28"/>
+    <line x1="256" y1="256" x2="484" y2="28"/>
+    <line x1="256" y1="256" x2="28" y2="484"/>
+    <line x1="256" y1="256" x2="484" y2="484"/>
+    <line x1="256" y1="256" x2="8" y2="190"/>
+    <line x1="256" y1="256" x2="504" y2="190"/>
+    <line x1="256" y1="256" x2="8" y2="330"/>
+    <line x1="256" y1="256" x2="504" y2="330"/>
+    <line x1="256" y1="256" x2="170" y2="6"/>
+    <line x1="256" y1="256" x2="340" y2="6"/>
+    <line x1="256" y1="256" x2="170" y2="506"/>
+    <line x1="256" y1="256" x2="340" y2="506"/>
+  </g>
+
+  <use href="#burst" x="10" y="12" fill="#0A0A0A"/>
+  <use href="#burst" fill="#E22B2B"/>
+  <use href="#burst" fill="url(#dots-red)" opacity="0.4"/>
+
+  <g clip-path="url(#clip-burst)">
+    <g transform="translate(256 236) rotate(-5) scale(3.6) translate(-47 -50)">
+      <g transform="translate(5 6)" fill="#0A0A0A">
+        <use href="#word-AI"/>
+      </g>
+      <g fill="#FFFFFF" stroke="#0A0A0A" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+        <use href="#word-AI"/>
+      </g>
+    </g>
+  </g>
+
+  <use href="#burst" fill="none" stroke="#0A0A0A" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <g transform="translate(256 268) rotate(-12) scale(2.0) translate(-115 -50)">
+    <g transform="translate(8 9)" fill="#0A0A0A">
+      <use href="#word-SMEK"/>
+    </g>
+    <g fill="#FFE135" stroke="#0A0A0A" stroke-width="8.5" stroke-linejoin="round" stroke-linecap="round">
+      <use href="#word-SMEK"/>
+    </g>
+  </g>
+</svg>

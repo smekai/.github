@@ -1,0 +1,9 @@
+# brand local install artifacts
+brand/node_modules/
+brand/package-lock.json
+
+# regenerable rasters (keep org-avatar.png committed)
+brand/exports/avatar-*.png
+brand/exports/favicon-*
+brand/exports/favicon.ico
+brand/exports/smek-burst.svg
