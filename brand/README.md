@@ -1,37 +1,28 @@
-# smek.ai brand mark
+# smek.ai identity
 
-Comic-book **SMEK AI** impact burst for the [`smekai`](https://github.com/smekai) GitHub org.
+The approved identity is the **graphite** system: a shared rounded graphite tile,
+white product marks, and one visual language across smek.ai products.
 
-Yellow `SMEK` in front, white `AI` clipped inside the red burst, blue field.
+## Approved icons
 
-## Palette
-
-| Token | Hex | Use |
+| Product | 1× PNG | 2× PNG |
 |---|---|---|
-| Comic blue | `#1E90FF` | Field |
-| Comic red | `#E22B2B` | Burst |
-| Deep red | `#9B1515` | Halftone on red |
-| Comic yellow | `#FFE135` | SMEK wordmark |
-| White | `#FFFFFF` | AI wordmark |
-| Ink black | `#0A0A0A` | Outlines + offset shadow |
+| SMEK AI | [`smek_ai_icon_graphite_smek_ai.png`](identity/smek_ai_icon_graphite_smek_ai.png) | [`smek_ai_icon_graphite_smek_ai@2x.png`](identity/smek_ai_icon_graphite_smek_ai@2x.png) |
+| TaskPlanner | [`smek_ai_icon_graphite_taskplanner.png`](identity/smek_ai_icon_graphite_taskplanner.png) | [`smek_ai_icon_graphite_taskplanner@2x.png`](identity/smek_ai_icon_graphite_taskplanner@2x.png) |
+| ADHD | [`smek_ai_icon_graphite_adhd.png`](identity/smek_ai_icon_graphite_adhd.png) | [`smek_ai_icon_graphite_adhd@2x.png`](identity/smek_ai_icon_graphite_adhd@2x.png) |
 
-## Files
+The 1× files are 320×320. The `@2x` files are 640×640. All six are RGBA PNGs
+with transparent corners.
 
-| File | Use |
-|---|---|
-| [`master/smek-burst.svg`](master/smek-burst.svg) | Source lockup |
-| [`exports/org-avatar.png`](exports/org-avatar.png) | GitHub org profile picture (512) |
+## Working files and alternatives
 
-## Regenerate exports
+The complete comparison sheets and earlier refinements remain in
+[`identity/`](identity/) for reference. They are not the active product icons.
+The legacy comic-burst SVG remains in [`master/`](master/) as historical source
+artwork.
 
-```bash
-npm install --prefix brand
-npm run rasterize --prefix brand
-```
+## GitHub organization avatar
 
-Also writes `avatar-512/256/128.png` and favicons into `exports/` (not committed; rebuild when needed).
-
-## GitHub org avatar
-
-Upload [`exports/org-avatar.png`](exports/org-avatar.png) under
-[github.com/organizations/smekai/settings/profile](https://github.com/organizations/smekai/settings/profile).
+[`exports/org-avatar.png`](exports/org-avatar.png) is the 512×512 upload-ready
+SMEK AI avatar. Upload it under the organization profile settings when the
+GitHub UI needs to be updated manually.

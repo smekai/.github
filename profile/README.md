@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_smek_ai%402x.png" alt="SMEK AI" width="128" height="128" />
+
 # SMEK AI
 
 **Calm, focused tools for people who build things.**
@@ -16,13 +18,13 @@ carry the work forward instead of just talking about it.
 
 ## Projects
 
-### 🗂 TaskPlanner
+### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_taskplanner.png" alt="" width="28" height="28" /> TaskPlanner
 File-based task management, right inside your editor. Your tasks are plain
 markdown in your repo — versioned, diffable, and readable by both humans and
 AI agents. No external service, no lock-in.
 → [github.com/smekai/taskplanner](https://github.com/smekai/taskplanner)
 
-### 🧠 ADHD
+### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_adhd.png" alt="" width="28" height="28" /> ADHD
 An agent workspace where AI agents work as a team of professions — a PM plans,
 a developer builds, an SRE ships — coordinating on real tasks in your project.
 → [github.com/smekai/adhd](https://github.com/smekai/adhd)
