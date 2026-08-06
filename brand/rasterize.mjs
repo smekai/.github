@@ -1,5 +1,5 @@
 /**
- * Resize the approved SMEK AI identity into GitHub/avatar and favicon exports.
+ * Resize the approved SMEKAI identity into GitHub/avatar and favicon exports.
  * Run: npm install --prefix brand && npm run rasterize --prefix brand
  */
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";

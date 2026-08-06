@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_smek_ai%402x.png" alt="SMEK AI" width="128" height="128" />
+<img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_smek_ai%402x.png" alt="SMEKAI" width="128" height="128" />
 
-# SMEK AI
+# SMEKAI
 
 **Calm, focused tools for people who build things.**
 
@@ -24,10 +24,12 @@ markdown in your repo — versioned, diffable, and readable by both humans and
 AI agents. No external service, no lock-in.
 → [github.com/smekai/taskplanner](https://github.com/smekai/taskplanner)
 
-### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_adhd.png" alt="" width="28" height="28" /> ADHD
-An agent workspace where AI agents work as a team of professions — a PM plans,
-a developer builds, an SRE ships — coordinating on real tasks in your project.
-→ [github.com/smekai/adhd](https://github.com/smekai/adhd)
+### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_adhd.png" alt="" width="28" height="28" /> Isotopy
+**From thought to production — and every version after.** An agent workspace
+where AI agents work as a team of professions — a PM plans, a developer builds,
+an SRE ships — taking your idea to working software and then keeping it
+evolving, without breaking what already works.
+→ [github.com/smekai/isotopy](https://github.com/smekai/isotopy)
 
 ## Principles
 
