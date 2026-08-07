@@ -24,7 +24,7 @@ markdown in your repo — versioned, diffable, and readable by both humans and
 AI agents. No external service, no lock-in.
 → [github.com/smekai/taskplanner](https://github.com/smekai/taskplanner)
 
-### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_adhd.png" alt="" width="28" height="28" /> Isotopy
+### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_isotopy.png" alt="" width="28" height="28" /> Isotopy
 **From thought to production — and every version after.** An agent workspace
 where AI agents work as a team of professions — a PM plans, a developer builds,
 an SRE ships — taking your idea to working software and then keeping it
