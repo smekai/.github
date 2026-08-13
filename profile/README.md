@@ -18,18 +18,43 @@ carry the work forward instead of just talking about it.
 
 ## Projects
 
-### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_taskplanner.png" alt="" width="28" height="28" /> TaskPlanner
-File-based task management, right inside your editor. Your tasks are plain
-markdown in your repo — versioned, diffable, and readable by both humans and
-AI agents. No external service, no lock-in.
-→ [github.com/smekai/taskplanner](https://github.com/smekai/taskplanner)
+<table>
+  <tr>
+    <td width="112" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_taskplanner%402x.png" alt="TaskPlanner" width="88" height="88" />
+    </td>
+    <td valign="top">
+      <h3>TaskPlanner</h3>
+      <p>File-based task management, right inside your editor. Your tasks are plain markdown in your repo — versioned, diffable, and readable by both humans and AI agents. No external service, no lock-in.</p>
+      <p>→ <a href="https://github.com/smekai/taskplanner">github.com/smekai/taskplanner</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="112" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_isotopy%402x.png" alt="Isotopy" width="88" height="88" />
+    </td>
+    <td valign="top">
+      <h3>Isotopy</h3>
+      <p><strong>From thought to production — and every version after.</strong> An agent workspace where AI agents work as a team of professions — a PM plans, a developer builds, an SRE ships — taking your idea to working software and then keeping it evolving, without breaking what already works.</p>
+      <p>→ <a href="https://github.com/smekai/isotopy">github.com/smekai/isotopy</a></p>
+    </td>
+  </tr>
+</table>
 
-### <img src="https://raw.githubusercontent.com/smekai/.github/main/brand/identity/smek_ai_icon_graphite_isotopy.png" alt="" width="28" height="28" /> Isotopy
-**From thought to production — and every version after.** An agent workspace
-where AI agents work as a team of professions — a PM plans, a developer builds,
-an SRE ships — taking your idea to working software and then keeping it
-evolving, without breaking what already works.
-→ [github.com/smekai/isotopy](https://github.com/smekai/isotopy)
+## Doesn’t this already exist?
+
+Yes — in pieces.
+
+- Is this a new harness? **Yes.**
+- Is this another workflow system for AI? **Yes.**
+- Does it address problems tackled by many AI libraries? **Yes.**
+- Can Lovable create a first version? **Yes.**
+- Can Cursor, Claude Code, or Codex change code? **Yes.**
+
+Those tools solve slices of the problem. **Isotopy connects the complete delivery
+loop:** it turns a vision into a simple, executable product model, coordinates a
+prepared team through design, development, review, and verification, and keeps
+the evidence and context needed for every version after the first.
 
 ## Principles
 
