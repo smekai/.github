@@ -41,7 +41,7 @@ carry the work forward instead of just talking about it.
   </tr>
 </table>
 
-## Doesn’t this already exist?
+## Doesn’t Isotopy product already exist?
 
 Yes — in pieces.
 
